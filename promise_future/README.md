@@ -1,0 +1,1 @@
+一个 future 搭配 promise 的用法
